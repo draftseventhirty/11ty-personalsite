@@ -2,7 +2,7 @@ import * as sass from "npm:sass";
 
 export default function (eleventyConfig) {
   eleventyConfig.addTemplateFormats("scss");
-  eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("src/assets");
 
   eleventyConfig.addExtension("scss", {
     outputFileExtension: "css",
@@ -18,7 +18,7 @@ export default function (eleventyConfig) {
 
   return {
     dir: {
-      input: ".",
+      input: "src",
       output: "_site",
       includes: "_includes",
     },
