@@ -1,7 +1,0 @@
-[build]
-  command = "curl -fsSL https://deno.land/install.sh | sh -s -- -y && export DENO_INSTALL=\"$HOME/.deno\" && export PATH=\"$DENO_INSTALL/bin:$PATH\" && deno --allow-all npm:@11ty/eleventy"
-  publish = "_site"
-
-[build.environment]
-  # Ensures the build environment behaves if node processes check for it
-  NODE_ENV = "production"
