@@ -26,4 +26,4 @@ i produce music under the name **auxidized** and am currently learning rust and 
         </ul>
 </details>
 
-<img src="https://hitscounter.dev/api/hit?url=draft730.fyi&label=&icon=people-fill&color=%231f2421&message=&style=flat-square&tz=UTC">
+<p style="text-align: center;"><img src="https://hitscounter.dev/api/hit?url=draft730.fyi&label=&icon=people-fill&color=%231f2421&message=&style=flat-square&tz=UTC"></p>
