@@ -32,6 +32,26 @@ body {
   background-size: 18px 18px;
 }
 
+.blog-content {
+    width: 75%;
+    margin: auto;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    background-color: $carbon-black;
+    border: 2px solid $dark-slate-grey;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 600px) {
+  .blog-content {
+    width: 100%;
+  }
+}
+
 h1, h2, h3, h4, h5,
 p, details, small {
   font-family: $font-family;
@@ -55,6 +75,10 @@ h1, h2, h3, h4, h5 {
 }
 
 p, details, small {
+  color: $alabaster-grey;
+}
+
+ul, li {
   color: $alabaster-grey;
 }
 
@@ -97,4 +121,12 @@ a {
 .header-row img {
   border-radius: 6px;
   object-fit: cover;
+}
+
+#cusdis_thread {
+  color: $alabaster-grey;
+  font-family: $font-family;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 2px solid $dark-slate-grey;
 }

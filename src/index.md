@@ -20,7 +20,7 @@ i produce music under the name **auxidized** and am currently learning rust and 
             <li><a href="https://auxidized.bandcamp.com">bandcamp</a></li>
             <li><a href="https://tilde.club/~draft730">tilde.club</a></li>
             <li><a href="https://rateyourmusic.com/~a573ria">rateyourmusic</a></li>
-            <li><a href="https://tilde.club/~draft730/blog/public/">music blog</a></li>
+            <li><a href="https://blog.draft730.fyi">music blog</a></li>
             <li><a href="https://tilde.club/~draft730/micro/">tumblelog</a></li>
             <li><a href="https://tilde.club/~draft730/dj/">dj sets</a></li>
         </ul>
