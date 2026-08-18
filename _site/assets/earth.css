@@ -1,0 +1,85 @@
+@import url(https://fonts.bunny.net/css?family=ibm-plex-mono:400);
+html {
+  margin-top: 80px;
+  margin-bottom: 100px;
+  margin-right: 160px;
+  margin-left: 160px;
+}
+
+@media (max-width: 600px) {
+  html {
+    margin: 0;
+  }
+}
+body {
+  background-color: #1f2421;
+  background-image: radial-gradient(#203533 2px, transparent 2px);
+  background-size: 18px 18px;
+}
+
+h1, h2, h3, h4, h5,
+p, details, small {
+  font-family: "Helvetica", sans-serif;
+}
+
+p {
+  font-size: 1rem;
+}
+
+code {
+  font-family: "IBM Plex Mono", monospace;
+  color: #dce1de;
+  background-color: #203533;
+  border-radius: 6px;
+  border: 1px solid #358471;
+  padding: 2px 6px;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #9cc5a1;
+}
+
+p, details, small {
+  color: #dce1de;
+}
+
+footer {
+  color: #9cc5a1;
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+embed {
+  align-content: center;
+}
+
+a {
+  color: #9cc5a1;
+  font-family: "Helvetica", sans-serif;
+}
+
+:visited {
+  color: #49a078;
+}
+
+.h-card {
+  display: flex;
+  gap: 10px;
+}
+
+.header-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header-row img {
+  border-radius: 6px;
+  object-fit: cover;
+}

@@ -1,0 +1,9 @@
+[build]
+  # 1. Download and install the Deno CLI on the Netlify build container
+  # 2. Run your 11ty build using deno tasks or direct run flags
+  command = "curl -fsSL https://deno.land | sh && export DENO_INSTALL=\"$HOME/.deno\" && export PATH=\"$DENO_INSTALL/bin:$PATH\" && deno task build"
+  publish = "_site"
+
+[build.environment]
+  # Ensures the build environment behaves if node processes check for it
+  NODE_ENV = "production"
