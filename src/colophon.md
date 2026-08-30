@@ -1,5 +1,5 @@
 ---
-title: colophon
+title: colophon | draft730
 layout: base.njk
 ---
 # colophon 
