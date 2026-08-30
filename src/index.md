@@ -6,6 +6,7 @@ layout: base.njk
   <a class="u-email" rel="me" href="mailto:draft730@duck.com" style="display: none;"></a>
   <img src="/assets/avatar.png" alt="avatar" width="75" height="75">
   <h1>i'm <strong>draft730.</strong> <h1 style="font-size: 2vh;">(she/her)</h1></h1>
+  <embed class="now-playing" src="https://now-playing-widget.vercel.app/api/user/demonickatsu">
 </div>
 
 i'm a programmer and musician from the east-coast US.
@@ -26,5 +27,3 @@ i produce music under the name **auxidized** and am currently learning rust and 
             <li><a href="https://draft730.fyi/contact">contact info</a></li>
         </ul>
 </details>
-
-<p style="text-align: center;"><img src="https://hitscounter.dev/api/hit?url=draft730.fyi&label=&icon=people-fill&color=%231f2421&message=&style=flat-square&tz=UTC"></p>
