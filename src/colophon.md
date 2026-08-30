@@ -4,7 +4,7 @@ layout: base.njk
 ---
 # colophon 
 
-this site is written with [11ty](https://www.11ty.dev/) (powered by [deno](https://deno.com/) because node.js bothers me) and styled with [sass](https://sass-lang.com/). its code reluctantly sits over [here](https://github.com/draftseventhirty/11ty-personalsite) on github and is hosted on [cloudflare pages](https://pages.cloudflare.com/). i write all my code in [zed](https://zed.dev/). in the event i want an LLM to do grunt work for me, i use [opencode](https://opencode.ai/).
+this site is written with [11ty](https://www.11ty.dev/) (powered by [deno](https://deno.com/) because node.js bothers me) and styled with [sass](https://sass-lang.com/). its code <span style="text-decoration: none; border-bottom: 2px dashed white; padding-bottom: 1px;" title="i promise i tried other git forges but none of them worked for me :(">reluctantly</span> sits over [here](https://github.com/draftseventhirty/11ty-personalsite) on github and is hosted on [cloudflare pages](https://pages.cloudflare.com/). i write all my code in [zed](https://zed.dev/). in the event i want an LLM to do grunt work for me, i use [opencode](https://opencode.ai/).
 
 ## design
 
