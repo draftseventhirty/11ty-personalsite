@@ -3,7 +3,7 @@ title: contact info | draft730
 layout: base.njk
 ---
 
-# how to contact me
+# dude, where's my contact info?
 
 (in order of preference)
 
