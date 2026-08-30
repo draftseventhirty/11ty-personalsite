@@ -1,0 +1,3 @@
+[submodule "src/_includes"]
+	path = src/_includes
+	url = https://github.com/draftseventhirty/11ty-templates.git
