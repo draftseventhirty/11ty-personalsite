@@ -11,6 +11,8 @@ layout: base.njk
 
 [matrix](https://matrix.to/#/@draft730:4d2.org)
 
-[jami](jami:draft730)
+[delta chat](https://i.delta.chat/#1DEB8D96C288824F3813FFDC867BC6199DEF03A6&v=3&i=D-NeUot5DVK1nK0P0Q_s-iZl&s=iSSk9yWoCdEpg262shb9Tn4Z&a=xdxlzfvhx%40nine.testrun.org&n=draft730)
 
 [XMPP](xmpp:azalea@openim.nl)
+
+[jami](jami:draft730)
