@@ -5,7 +5,7 @@ layout: base.njk
 <div class="header-row">
   <a class="u-email" rel="me" href="mailto:draft730@duck.com" style="display: none;"></a>
   <img src="/assets/avatar.png" alt="avatar" width="75" height="75">
-  <h1>i'm <strong>draft730.</strong> <h1 style="font-size: 2vh;">(she/her)</h1></h1>
+  <h1>i'm <strong class="highlight">draft730.</strong> <h1 style="font-size: 2vh;">(she/her)</h1></h1>
   <embed class="now-playing" src="https://now-playing-widget.vercel.app/api/user/demonickatsu">
 </div>
 
