@@ -11,7 +11,7 @@ layout: base.njk
 
 i'm a programmer and musician from the east-coast US.
 
-i produce music under the name **auxidized** and am currently learning rust and typescript.
+i produce music under the name **auxidized** and am currently learning golang.
 
 <details>
     <summary><strong>my links</strong></summary>
