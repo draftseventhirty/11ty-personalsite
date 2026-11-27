@@ -17,7 +17,7 @@ i produce music under the name **auxidized** and am currently learning golang.
     <summary><strong>my links</strong></summary>
         <ul>
             <li><a rel="me" href="https://github.com/draftseventhirty/">git</a></li>
-            <li><a rel="me" href="https://mastoshare.link/r?account=https%3A%2F%2Fsynthpals.social%2Fdraft730&fallbackInstance=synthpals.social">fediverse</a></li>
+            <li><a rel="me" href="https://masto.nu/@draft730">fediverse</a></li>
             <li><a href="https://auxidized.bandcamp.com">bandcamp</a></li>
             <li><a href="https://tilde.club/~draft730">tilde.club</a></li>
             <li><a href="https://rateyourmusic.com/~a573ria">rateyourmusic</a></li>
